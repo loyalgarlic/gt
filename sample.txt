@@ -1,4 +1,3 @@
 monkey can understand git command. 
-
-
-add: to register updated things
+add : register update to index
+pull : fetch remote
