@@ -1,6 +1,4 @@
 monkey can understand git command. 
 add: to register updated things
 commit: record the state of index
-
-
-
+pull : fetch remote
