@@ -1,1 +1,4 @@
-monkey can understand git command. add: to register updated things
+monkey can understand git command. 
+
+
+add: to register updated things
